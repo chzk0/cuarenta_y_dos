@@ -1,0 +1,5 @@
+Credentials cache: API:04A3E448-1998-41B8-A8C4-F7ADDF81F564
+        Principal: cesteve-@42MADRID.COM
+
+  Issued                Expires               Principal
+Apr  8 12:11:00 2021  Apr  8 22:11:00 2021  krbtgt/42MADRID.COM@42MADRID.COM
